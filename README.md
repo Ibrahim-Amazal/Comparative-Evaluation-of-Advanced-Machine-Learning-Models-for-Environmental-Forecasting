@@ -34,20 +34,35 @@ By following a structured methodology based on the CRISP-DM framework, this work
 This repository is organized into the following directories and files:
 
 ├── data/                     # Datasets used in the project (zipped for storage efficiency)
+
 ├── notebooks/
+
 │   ├── EDA/                  # Exploratory Data Analysis notebooks for each dataset
+
 │   │   ├── EDA_Temperature_Analysis_Brazil.ipynb
+
 │   │   ├── EDA_Wind_Turbine_Analysis.ipynb
+
 │   │   ├── EDA_Air_Quality_Analysis.ipynb
+
 │   ├── Models/               # Machine learning model implementation notebooks
+
 │   │   ├── ML_Model_Implementation_On_Temperature_Dataset.ipynb
+
 │   │   ├── ML_Model_Implementation_On_Wind_Turbine_Dataset.ipynb
+
 │   │   ├── ML_Model_Implementation_On_Air_Quality_Dataset.ipynb
+
 ├── src/                      # Utility scripts for data preprocessing
+
 │   ├── data_preprocessing_utils.ipynb
+
 ├── docs/                     # Project documentation, including research reports
+
 │   ├── ML_Environmental_Forecasting_Report.docx
+
 ├── requirements.txt          # Dependencies and required libraries for running the project
+
 ├── README.md                 # This file - Project overview and repository navigation guide
 
 ## Installation & Setup
