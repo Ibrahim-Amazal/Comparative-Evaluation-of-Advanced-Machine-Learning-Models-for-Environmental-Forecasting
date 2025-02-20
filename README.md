@@ -94,21 +94,32 @@ Navigate to notebooks/EDA/ for data exploration or notebooks/Models/ to run mode
 
 To ensure smooth execution, install the following dependencies listed in requirements.txt:
 => numpy
+
 => pandas
+
 => matplotlib
+
 => seaborn
+
 => scikit-learn
+
 => statsmodels
+
 => prophet
+
 => tensorflow
+
 => keras
+
 => torch
+
 => torchaudio
+
 => torchvision
+
 => xgboost
+
 => shap
-=> jupyter
-=> notebook
 
 These packages ensure seamless execution of the models, preprocessing utilities, and visualization tools.
 
