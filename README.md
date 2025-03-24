@@ -82,8 +82,6 @@ env\Scripts\activate     # On Windows
 
 3. Install dependencies
 
-pip install -r requirements.txt
-
 4. Run Jupyter Notebooks or any other alternative
 
 jupyter notebook
